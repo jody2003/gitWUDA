@@ -1,0 +1,6 @@
+framework module Pods_gitWUDA {
+  umbrella header "Pods-gitWUDA-umbrella.h"
+
+  export *
+  module * { export * }
+}
